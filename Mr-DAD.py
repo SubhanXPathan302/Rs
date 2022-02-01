@@ -649,7 +649,7 @@ def menu():
         c = raw_input('\n%s [?] Menu : %s'%(P,K))
     	hasill(c)
     elif unik in['8','08']:
-        os.system("xdg-open https://www.facebook.com/Subhankhan4.94"")
+        os.system("xdg-open https://www.facebook.com/Subhankhan4.94")
     elif unik in['9','09']:
         print(ingfo)
     elif unik in['0','00']:
